@@ -2,7 +2,6 @@
 A collection of resources to start off researching AI in CyberSecurity
 
 # Table of Contents
----
 - Articles
 
 # Basic Introduction
