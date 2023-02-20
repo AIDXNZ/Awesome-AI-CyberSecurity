@@ -3,14 +3,21 @@
 # Awesome-AI-CyberSecurity
 A collection of resources to start off researching AI in CyberSecurity
 
+### Contributions welcome
+If you want to contribute to this list, by all means. 
+
+### Check out also
+* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A curated list of Cyber Sec resources
+
 # Table of Contents
+- Basic Introduction
 - Articles
 
 # Basic Introduction
 To help classify and aggergrate research there will be 4 main categories for this repo:
 
 1. Exploiting the Training Process or at Data collection
-   - Reffered to as poisoning, is the process of injecting malicous or faulty data to a Machine Learning model.
+   - Reffered to as poisoning, is the process of injecting maliscous or faulty data to a Machine Learning model.
 2. Exploiting a Pre-trained model
    - Reffers to exploiting a ML's input to get a desired output. 
 3. ML/AI Supported hacking
