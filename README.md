@@ -5,7 +5,28 @@ A collection of resources to start off researching AI in CyberSecurity
 ---
 - Articles
 
+# Basic Introduction
+To help classify and aggergrate research there will be 4 main categories for this repo:
 
+1. Exploiting the Training Process or at Data collection
+   - Reffered to as poisoning, is the process of injecting malicous or faulty data to a Machine Learning model.
+2. Exploiting a Pre-trained model
+   - Reffers to exploiting a ML's input to get a desired output. 
+3. ML/AI Supported hacking
+   - Reffers to offensive hacking use AI/ML tools. 
+4. ML/AI Supported Security
+   - Reffers to Information Security use of AI/ML tools.
+
+## Problems in AI and Machine Learning Models
+There are numerous amounts of ways to exploit a machine learning model. Most of which can be summed down into 3 categories. 
+
+Evasion attacks - Hackers provide faulty algorithm inputs, leading to incorrect decisions.
+
+Poisoning attacks - Hackers provide poisoned data for training sets. which corrupt the machine learning algorithm and spoil the data mining process.
+
+Privacy attacks - Hackers use the training phase to try and retrieve private data from the algorithm.
+
+## Personalized Phishing/Social Engineering attacks using AI
 
 # Articles 
 ### IEEE.org
