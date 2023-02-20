@@ -1,6 +1,6 @@
 <img src="https://bafybeifvc2mcyyyj2hrymxdpw7xcqfdnyayira44jibdqcy6njefdwdo4y.ipfs.w3s.link/ecSQ2THC.jpeg" width="1000">
 
-# awesome-AI-CyberSecurity
+# Awesome-AI-CyberSecurity
 A collection of resources to start off researching AI in CyberSecurity
 
 # Table of Contents
