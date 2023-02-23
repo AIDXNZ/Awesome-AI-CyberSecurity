@@ -17,26 +17,35 @@ If you want to contribute to this list, by all means.
 To help classify and aggergrate research there will be 4 main categories for this repo:
 
 1. Exploiting the Training Process or at Data collection
-   - Reffered to as poisoning, is the process of injecting maliscous or faulty data to a Machine Learning model.
+   - Refered to as poisoning, is the process of injecting maliscous or faulty data to a Machine Learning model.
 2. Exploiting a Pre-trained model
-   - Reffers to exploiting a ML's input to get a desired output. 
+   - Refers to exploiting a ML's input to get a desired output. 
 3. ML/AI Supported hacking
-   - Reffers to offensive hacking use AI/ML tools. 
+   - Refers to offensive hacking use AI/ML tools. 
 4. ML/AI Supported Security
-   - Reffers to Information Security use of AI/ML tools.
+   - Refers to Information Security use of AI/ML tools.
 
 ## Problems in AI and Machine Learning Models
-There are numerous amounts of ways to exploit a machine learning model. Most of which can be summed down into 3 categories. 
+There are numerous amounts of ways to exploit a machine learning model. Most of which can be summed down into these categories. 
 
 Evasion attacks - Hackers provide faulty algorithm inputs, leading to incorrect decisions.
 
 Poisoning attacks - Hackers provide poisoned data for training sets. which corrupt the machine learning algorithm and spoil the data mining process.
 
-Privacy attacks - Hackers use the training phase to try and retrieve private data from the algorithm.
+Inference attacks - Hackers use the training phase to try and retrieve private data.
 
-## Personalized Phishing/Social Engineering attacks using AI
+Extraction attacks - Hackers steal the Machine Learning model
+
+## What are Evasion attacks?
+Evasion attacks are essentially prividing the model with an input and getting an output.Some really good examples are what users are doing with ChatGPT3. There are 'strict' guidelines for the model to follow but with a simple "convincing" statement the chatbot will break those rules for you. 
+
 
 # Articles 
+
+### Arxiv.org
+- Explaining and Harnessing Advesarial Examples [Source](https://arxiv.org/abs/1412.6572)
+
+
 ### IEEE.org
 - Ethics and Privacy in AI and Big Data: Implementing Responsible Research and Innovation [Source](https://ieeexplore.ieee.org/document/8395078")
 - Federated Learning With Differential Privacy: Algorithms and Performance Analysis [Source](https://ieeexplore.ieee.org/document/9069945)
